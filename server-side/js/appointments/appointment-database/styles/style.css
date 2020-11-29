@@ -1,0 +1,6 @@
+td{
+  padding: 2px;
+}
+tr:nth-child(even) td {
+  background-color: lightgrey;
+}
